@@ -1,2 +1,2 @@
 # Rock Paper Scissors
-Simple game made in python.
+Simple rock, paper, scissors game made in python.
